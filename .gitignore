@@ -20,6 +20,7 @@
 !NuGet.exe
 *.exe
 *.exe~
+**/*.exe
 
 npm-debug.log*
 yarn-debug.log*
