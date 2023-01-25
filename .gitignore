@@ -18,6 +18,8 @@
 .env.test.local
 .env.production.local
 !NuGet.exe
+*.exe
+*.exe~
 
 npm-debug.log*
 yarn-debug.log*
